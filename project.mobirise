@@ -11,6 +11,7 @@
     "versionFirst": "5.3.5",
     "siteFonts": [],
     "imageResize": true,
+    "publishChangesOnly": true,
     "uniqCompNum": 9,
     "versionPublish": "5.3.5"
   },
@@ -423,7 +424,7 @@
           "price3": "0",
           "period3": "per month",
           "list3": "<ul><li><b>100 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>50 GB</b> Bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
           "price4": "0",
@@ -459,7 +460,7 @@
           "title": "CONTACT FORM",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
           "form": {
-            "action": "rymkteyjpz@email.edu.pl",
+            "action": "savekarkd2001@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
